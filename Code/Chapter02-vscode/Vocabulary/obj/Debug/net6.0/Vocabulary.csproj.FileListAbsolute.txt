@@ -1,0 +1,15 @@
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.AssemblyReference.cache
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfoInputs.cache
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfo.cs
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\bin\Debug\net6.0\Vocabulary.exe
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\bin\Debug\net6.0\Vocabulary.deps.json
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\bin\Debug\net6.0\Vocabulary.runtimeconfig.json
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\bin\Debug\net6.0\Vocabulary.dll
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\bin\Debug\net6.0\Vocabulary.pdb
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\Vocabulary.dll
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\refint\Vocabulary.dll
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\Vocabulary.pdb
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\Vocabulary.genruntimeconfig.cache
+C:\02.KJS_Programming\Code\Chapter02-vscode\Vocabulary\obj\Debug\net6.0\ref\Vocabulary.dll

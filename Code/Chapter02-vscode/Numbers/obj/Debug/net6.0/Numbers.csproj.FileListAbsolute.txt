@@ -1,0 +1,15 @@
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\bin\Debug\net6.0\Numbers.exe
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\bin\Debug\net6.0\Numbers.deps.json
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\bin\Debug\net6.0\Numbers.dll
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\bin\Debug\net6.0\Numbers.pdb
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\Numbers.dll
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\Numbers.pdb
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Numbers\obj\Debug\net6.0\ref\Numbers.dll

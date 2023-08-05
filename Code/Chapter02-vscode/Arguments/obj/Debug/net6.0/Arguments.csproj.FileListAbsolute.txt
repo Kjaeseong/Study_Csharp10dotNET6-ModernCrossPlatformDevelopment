@@ -1,0 +1,15 @@
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\bin\Debug\net6.0\Arguments.exe
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\bin\Debug\net6.0\Arguments.deps.json
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\bin\Debug\net6.0\Arguments.runtimeconfig.json
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\bin\Debug\net6.0\Arguments.dll
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\bin\Debug\net6.0\Arguments.pdb
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\Arguments.csproj.AssemblyReference.cache
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfoInputs.cache
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfo.cs
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\Arguments.csproj.CoreCompileInputs.cache
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\Arguments.dll
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\refint\Arguments.dll
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\Arguments.pdb
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\Arguments.genruntimeconfig.cache
+C:\MyStudy\Study_Csharp10dotNET6-ModernCrossPlatformDevelopment\Code\Chapter02-vscode\Arguments\obj\Debug\net6.0\ref\Arguments.dll
